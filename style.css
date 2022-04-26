@@ -1,0 +1,24 @@
+.heading { 
+    margin: 0px ;
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 10px 10px 10px rgb(255, 98, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer{
+  bottom: 0px;
+  background-color: rgb(255, 98, 0);
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  line-height: 3;
+  font-size: 25px;
+  font-family: 'Send Flowers', cursive;
+  color:rgb(100, 0, 0);
+  font-weight: bolder;
+}
